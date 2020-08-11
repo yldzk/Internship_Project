@@ -1,6 +1,8 @@
 # Internship_Project
 
-this project is a tool for any linux machine for checking the capasity and percentage of system memory on a dashboard 
+this project is a tool for any linux machine for checking the capasity and percentage of system memory
+
+the analytics are shown on dashboard
 
 written on PHP
 
